@@ -30,4 +30,4 @@ records to uncover clinical and operational insights.
 - healthcare_dashboard.png — Power BI dashboard screenshot
 
 ## Dashboard Preview
-(healthcare dashboard.png)
+(healthcare_dashboard.png)
