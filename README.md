@@ -34,7 +34,7 @@ records to uncover clinical and operational insights.
 
 ## Author
 Vanitha N  
-Data Analyst Python(Pandas)| SQL | Power BI | Excel
+Data Analyst | Python(Pandas) | SQL | Power BI | Excel
 
 LinkedIn: https://linkedin.com/in/vanitha-n-161a043b3  
 Email: vanithavijay2103@gmail.com
