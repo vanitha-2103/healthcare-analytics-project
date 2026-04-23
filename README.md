@@ -31,3 +31,10 @@ records to uncover clinical and operational insights.
 
 ## Dashboard Preview
 ![Dashboard](healthcare_dashboard.png)
+
+## Author
+Vanitha N  
+Data Analyst | SQL | Power BI | Excel  
+
+LinkedIn: https://linkedin.com/in/vanitha-n-161a043b3  
+Email: vanithavijay2103@gmail.com
